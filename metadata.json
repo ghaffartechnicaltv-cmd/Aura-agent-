@@ -1,0 +1,6 @@
+{
+  "name": "AURA AI",
+  "description": "Multimodal AI Personal Assistant Agent with multi-step reasoning, tool execution, action guard, and voice interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
